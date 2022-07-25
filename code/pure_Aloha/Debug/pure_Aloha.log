@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (synchronous Alloha.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  synchronous_Alloha.cpp
+C:\Users\Алина\Desktop\универ\ВССТ\курсач\проект\pure_Aloha\synchronous_Alloha.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pure_Aloha.vcxproj -> C:\Users\Алина\Desktop\универ\ВССТ\курсач\проект\CourseWork\Debug\synchronous_Alloha.exe
